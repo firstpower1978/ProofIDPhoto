@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-2022/9/1
+2025/11/25
 
 # ご利用規約
 ## 第1条　本サービスの内容

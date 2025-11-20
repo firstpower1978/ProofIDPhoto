@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-August 1 2019
+11 25 2025
 
 # プライバシーポリシー
 本プライバシーポリシーは、個人情報の取扱いについて記載したものです。
